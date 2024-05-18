@@ -1,0 +1,49 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #f7f7f7;
+    padding: 1.5rem;
+}
+
+header ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    margin-right: 1.5rem;
+}
+
+header ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+header ul li a:hover {
+    color: #111;
+}
+
+main {
+    padding: 2rem;
+}
+
+main h1 {
+    color: #111;
+}
+
+main p {
+    color: #333;
+}
+
+footer {
+    background-color: #111;
+    padding: 1.5rem;
+}
+
+footer p {
+    color: #fff;
+}
